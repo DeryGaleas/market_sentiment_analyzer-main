@@ -1,0 +1,4 @@
+django
+python-google-places
+djangorestframework
+googlemaps
